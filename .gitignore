@@ -2,3 +2,7 @@ node_modules/
 dist/
 .vercel/
 tmp/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+.vercel
